@@ -14,3 +14,4 @@ const answer : {
 const words = answer.Sentence.trim().split(" ")
 console.log(words)
 console.log(`Your sentence word count is ${words.length}`)
+console.log("Thank you!")

@@ -1,10 +1,10 @@
 {
   "name": "noor3s21-word-counter-project",
-  "version": "1.0.0",
+  "version": "2.1.1",
   "description": "This is word counter project",
   "main": "index.js",
   "type": "module",
-  "bin": "word.ts",
+  "bin": "word.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

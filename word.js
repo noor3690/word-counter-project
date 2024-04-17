@@ -10,3 +10,4 @@ const answer = await inquirer.prompt([
 const words = answer.Sentence.trim().split(" ");
 console.log(words);
 console.log(`Your sentence word count is ${words.length}`);
+console.log("Thank you!");
